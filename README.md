@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Liya-st/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0886-score-of-parentheses) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
