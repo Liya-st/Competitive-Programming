@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 ## Linked List
 |  |
@@ -123,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
