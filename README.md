@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Liya-st/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
+| [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Liya-st/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
+| [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Liya-st/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
+| [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -107,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
