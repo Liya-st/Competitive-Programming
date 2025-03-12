@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
 | ------- |
@@ -132,5 +133,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
