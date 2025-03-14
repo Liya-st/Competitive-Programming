@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
