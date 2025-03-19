@@ -1,22 +1,20 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         res = []
-
-        def helper(i, temp):
-            if i > n:
-                return
+        def backtrack(i, temp):
             if len(temp) == k:
                 res.append(temp[:])
                 return
-            
-            else:
-                for idx in range(i+1, n+1):
-                    temp.append(idx)
-                    helper(idx, temp)
-                    temp.pop()
-             
-        helper(0,[])
+            if i > n:
+                return
+
+            temp.append(i)
+            backtrack(i+1, temp)
+            temp.pop()
+            backtrack(i+1, temp)
+        backtrack(1, [])
         return res
+       
 
 
 
