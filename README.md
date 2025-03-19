@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Liya-st/Competitive-Programming/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
