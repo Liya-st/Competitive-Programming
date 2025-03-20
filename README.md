@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Liya-st/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
