@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
+| [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
+| [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Liya-st/Competitive-Programming/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
+| [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Liya-st/Competitive-Programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Liya-st/Competitive-Programming/tree/master/0078-subsets) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
