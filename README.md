@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Liya-st/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Liya-st/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Liya-st/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Memoization
 |  |
