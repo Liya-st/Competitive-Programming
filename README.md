@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0874-backspace-string-compare](https://github.com/Liya-st/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
+| [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Liya-st/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Liya-st/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Liya-st/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Liya-st/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
