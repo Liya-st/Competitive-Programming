@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Greedy
@@ -313,4 +318,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
