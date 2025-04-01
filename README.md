@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Liya-st/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
