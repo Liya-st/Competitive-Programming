@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
+| [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Liya-st/Competitive-Programming/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Liya-st/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/2050-count-good-numbers) |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Liya-st/Competitive-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
