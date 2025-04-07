@@ -7,15 +7,14 @@ class Solution:
             adj[n].append(m)
             adj[m].append(n)
 
-        def dfs(vertex):
-            visited.add(vertex)
-            if vertex == destination:
+        stack = [source]
+        while stack:
+            curr = stack.pop()
+            if curr == destination:
                 return True
-            for neigh in adj[vertex]:
+            for neigh in adj[curr]:
                 if neigh not in visited:
-                    temp = dfs(neigh)
-                    if temp:
-                        return True
-            return False
-        return dfs(source)
+                    stack.append(neigh)
+                    visited.add(neigh)
+        return False
 
