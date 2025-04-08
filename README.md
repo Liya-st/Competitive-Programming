@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Liya-st/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Liya-st/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
+| [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Monotonic Stack
 |  |
@@ -386,5 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
