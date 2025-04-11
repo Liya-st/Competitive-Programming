@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Liya-st/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+| [3189-find-champion-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
