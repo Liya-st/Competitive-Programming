@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Liya-st/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Liya-st/Competitive-Programming/tree/master/1772-create-sorted-array-through-instructions) |
+| [1876-map-of-highest-peak](https://github.com/Liya-st/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Liya-st/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Liya-st/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1876-map-of-highest-peak](https://github.com/Liya-st/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Liya-st/Competitive-Programming/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Liya-st/Competitive-Programming/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Liya-st/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Bucket Sort
 |  |
