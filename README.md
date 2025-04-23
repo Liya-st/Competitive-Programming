@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 ## Sliding Window
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Liya-st/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Liya-st/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Liya-st/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
