@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
