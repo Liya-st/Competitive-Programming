@@ -1,22 +1,19 @@
 class Solution:
     def maxSum(self, grid: List[List[int]], limits: List[int], k: int) -> int:
-        dic = defaultdict(list)
+        heap = []
+        heapify(heap)
         for i, row in enumerate(grid):
-            dic[i] = [-n for n in row]
-            heapify(dic[i])
-        temp = []
+            row.sort()
+            j = len(row)-1
+            while limits[i] > 0:
+                heappush(heap, row[j])
+                j-=1
+                limits[i] -=1
+            while len(heap) > k:
+                heappop(heap)
+        return sum(heap)
 
-        for i, n in enumerate(limits):
-            while n > 0:
-                temp.append(heappop(dic[i]))
-                n-=1
-      
-        heapify(temp)
-        sum_ = 0
-        while k > 0:
-            sum_ += -(heappop(temp))
-            k-=1
-        return sum_
+
 
 
 
