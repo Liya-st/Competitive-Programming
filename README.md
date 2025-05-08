@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Liya-st/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Liya-st/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Liya-st/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Liya-st/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Liya-st/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Liya-st/Competitive-Programming/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Liya-st/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Liya-st/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Liya-st/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Liya-st/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Liya-st/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Liya-st/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Liya-st/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Liya-st/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
