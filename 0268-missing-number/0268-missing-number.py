@@ -1,18 +1,10 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        i = 0
-        n = len(nums)
-        nums.append(-1)
-        while i < n:
-            pos = nums[i]
-            if 0 <= pos < n and nums[i] != nums[pos]:
-                nums[i], nums[pos] = nums[pos], nums[i]
-            else:
-                i += 1
-        
+        arr_xor = 0
+        range_xor = 0
         for i, n in enumerate(nums):
-            if i != nums[i]:
-                return i
+            arr_xor ^= n
+            range_xor ^= i + 1
+        return arr_xor ^ range_xor
 
-        # print(nums)
         
