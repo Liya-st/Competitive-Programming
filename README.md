@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/2050-count-good-numbers) |
+| [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Liya-st/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
