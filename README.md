@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Liya-st/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2478-longest-nice-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [2478-longest-nice-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [2478-longest-nice-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
