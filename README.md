@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Liya-st/Competitive-Programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Liya-st/Competitive-Programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
@@ -592,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Liya-st/Competitive-Programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
