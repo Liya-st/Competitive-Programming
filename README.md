@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Liya-st/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Liya-st/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Liya-st/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Liya-st/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Liya-st/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Liya-st/Competitive-Programming/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Liya-st/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Liya-st/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Liya-st/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Liya-st/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Liya-st/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Liya-st/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3189-find-champion-ii) |
 ## Topological Sort
