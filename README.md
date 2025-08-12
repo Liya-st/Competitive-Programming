@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/Liya-st/Competitive-Programming/tree/master/0800-letter-case-permutation) |
+| [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/Liya-st/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Liya-st/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Liya-st/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
 | [0881-loud-and-rich](https://github.com/Liya-st/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Liya-st/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
+| [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Liya-st/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Liya-st/Competitive-Programming/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Liya-st/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
+| [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Liya-st/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Liya-st/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Liya-st/Competitive-Programming/tree/master/0922-possible-bipartition) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Liya-st/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Liya-st/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
+| [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Liya-st/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Liya-st/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Liya-st/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/Liya-st/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Liya-st/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Liya-st/Competitive-Programming/tree/master/0999-regions-cut-by-slashes) |
