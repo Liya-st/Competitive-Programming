@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
