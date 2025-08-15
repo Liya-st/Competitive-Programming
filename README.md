@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Liya-st/Competitive-Programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Liya-st/Competitive-Programming/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Liya-st/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Liya-st/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Liya-st/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Liya-st/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -541,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Liya-st/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Liya-st/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
@@ -609,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Liya-st/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Liya-st/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Liya-st/Competitive-Programming/tree/master/0684-redundant-connection) |
@@ -633,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Liya-st/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Liya-st/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Liya-st/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
