@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Liya-st/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/Liya-st/Competitive-Programming/tree/master/1014-k-closest-points-to-origin) |
+| [1448-maximum-69-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1448-maximum-69-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2050-count-good-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/2050-count-good-numbers) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-maximum-69-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1448-maximum-69-number) |
 | [1762-furthest-building-you-can-reach](https://github.com/Liya-st/Competitive-Programming/tree/master/1762-furthest-building-you-can-reach) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
