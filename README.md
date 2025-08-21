@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Liya-st/Competitive-Programming/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Liya-st/Competitive-Programming/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Liya-st/Competitive-Programming/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Liya-st/Competitive-Programming/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Liya-st/Competitive-Programming/tree/master/0190-reverse-bits) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Liya-st/Competitive-Programming/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Liya-st/Competitive-Programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Liya-st/Competitive-Programming/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Liya-st/Competitive-Programming/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Liya-st/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
