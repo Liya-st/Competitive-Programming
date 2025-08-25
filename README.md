@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Liya-st/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [1962-single-threaded-cpu](https://github.com/Liya-st/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Liya-st/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2478-longest-nice-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Liya-st/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Liya-st/Competitive-Programming/tree/master/1762-furthest-building-you-can-reach) |
 | [1955-seat-reservation-manager](https://github.com/Liya-st/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Liya-st/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Liya-st/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
