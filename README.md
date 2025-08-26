@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Liya-st/Competitive-Programming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
