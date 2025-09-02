@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Liya-st/Competitive-Programming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Liya-st/Competitive-Programming/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Liya-st/Competitive-Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Liya-st/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/Liya-st/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Liya-st/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Search
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Liya-st/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
@@ -701,8 +704,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Liya-st/Competitive-Programming/tree/master/1014-k-closest-points-to-origin) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
