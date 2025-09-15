@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Liya-st/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Liya-st/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Liya-st/Competitive-Programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Liya-st/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
