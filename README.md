@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Liya-st/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/Liya-st/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
+| [2023-design-movie-rental-system](https://github.com/Liya-st/Competitive-Programming/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Liya-st/Competitive-Programming/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Liya-st/Competitive-Programming/tree/master/3797-design-spreadsheet) |
 ## Queue
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Liya-st/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/Liya-st/Competitive-Programming/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/Liya-st/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
+| [2023-design-movie-rental-system](https://github.com/Liya-st/Competitive-Programming/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Liya-st/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [2023-design-movie-rental-system](https://github.com/Liya-st/Competitive-Programming/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Liya-st/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Liya-st/Competitive-Programming/tree/master/1772-create-sorted-array-through-instructions) |
+| [2023-design-movie-rental-system](https://github.com/Liya-st/Competitive-Programming/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Liya-st/Competitive-Programming/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
 |  |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Liya-st/Competitive-Programming/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/Liya-st/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Liya-st/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
+| [2023-design-movie-rental-system](https://github.com/Liya-st/Competitive-Programming/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Liya-st/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
