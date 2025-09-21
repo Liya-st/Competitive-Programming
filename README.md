@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Liya-st/Competitive-Programming/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Liya-st/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Liya-st/Competitive-Programming/tree/master/3797-design-spreadsheet) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Liya-st/Competitive-Programming/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Tree
 |  |
 | ------- |
