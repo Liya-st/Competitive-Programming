@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Liya-st/Competitive-Programming/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Liya-st/Competitive-Programming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/Liya-st/Competitive-Programming/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Liya-st/Competitive-Programming/tree/master/3797-design-spreadsheet) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Liya-st/Competitive-Programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
