@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Liya-st/Competitive-Programming/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Liya-st/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Liya-st/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Liya-st/Competitive-Programming/tree/master/0735-asteroid-collision) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Liya-st/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Liya-st/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1013-fibonacci-number) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Liya-st/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1448-maximum-69-number) |
 | [1762-furthest-building-you-can-reach](https://github.com/Liya-st/Competitive-Programming/tree/master/1762-furthest-building-you-can-reach) |
