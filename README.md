@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Liya-st/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Liya-st/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Liya-st/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Liya-st/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Liya-st/Competitive-Programming/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Liya-st/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
