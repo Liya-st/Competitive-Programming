@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Liya-st/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Liya-st/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Liya-st/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Liya-st/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Liya-st/Competitive-Programming/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/Liya-st/Competitive-Programming/tree/master/0800-letter-case-permutation) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
