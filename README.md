@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Liya-st/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Liya-st/Competitive-Programming/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/Liya-st/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
 | [0881-loud-and-rich](https://github.com/Liya-st/Competitive-Programming/tree/master/0881-loud-and-rich) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/Liya-st/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
