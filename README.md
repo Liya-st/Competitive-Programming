@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
+| [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Liya-st/Competitive-Programming/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0874-backspace-string-compare](https://github.com/Liya-st/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Liya-st/Competitive-Programming/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
