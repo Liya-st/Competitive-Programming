@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Liya-st/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Liya-st/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Liya-st/Competitive-Programming/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Liya-st/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Liya-st/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0213-house-robber-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Liya-st/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Liya-st/Competitive-Programming/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Liya-st/Competitive-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1013-fibonacci-number) |
@@ -810,4 +815,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
