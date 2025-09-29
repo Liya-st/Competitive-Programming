@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0516-longest-palindromic-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/Liya-st/Competitive-Programming/tree/master/0800-letter-case-permutation) |
 | [0869-similar-string-groups](https://github.com/Liya-st/Competitive-Programming/tree/master/0869-similar-string-groups) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Liya-st/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
