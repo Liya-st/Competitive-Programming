@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Liya-st/Competitive-Programming/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Liya-st/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Liya-st/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Liya-st/Competitive-Programming/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Liya-st/Competitive-Programming/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Liya-st/Competitive-Programming/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
