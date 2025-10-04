@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3379-score-of-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Liya-st/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
