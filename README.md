@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Liya-st/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Liya-st/Competitive-Programming/tree/master/0069-sqrtx) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Liya-st/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Liya-st/Competitive-Programming/tree/master/0148-sort-list) |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
