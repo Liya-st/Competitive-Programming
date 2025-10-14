@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 | [1272-invalid-transactions](https://github.com/Liya-st/Competitive-Programming/tree/master/1272-invalid-transactions) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1449-print-words-vertically](https://github.com/Liya-st/Competitive-Programming/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Liya-st/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Liya-st/Competitive-Programming/tree/master/1628-count-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
