@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1449-print-words-vertically](https://github.com/Liya-st/Competitive-Programming/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1512-design-underground-system](https://github.com/Liya-st/Competitive-Programming/tree/master/1512-design-underground-system) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1764-maximum-repeating-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Liya-st/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
+| [1512-design-underground-system](https://github.com/Liya-st/Competitive-Programming/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/Liya-st/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/Liya-st/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [2023-design-movie-rental-system](https://github.com/Liya-st/Competitive-Programming/tree/master/2023-design-movie-rental-system) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Liya-st/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1272-invalid-transactions](https://github.com/Liya-st/Competitive-Programming/tree/master/1272-invalid-transactions) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1512-design-underground-system](https://github.com/Liya-st/Competitive-Programming/tree/master/1512-design-underground-system) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2023-design-movie-rental-system](https://github.com/Liya-st/Competitive-Programming/tree/master/2023-design-movie-rental-system) |
