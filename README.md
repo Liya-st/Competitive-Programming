@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/Liya-st/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Liya-st/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Liya-st/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Liya-st/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
