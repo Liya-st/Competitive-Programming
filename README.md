@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Liya-st/Competitive-Programming/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Liya-st/Competitive-Programming/tree/master/0093-restore-ip-addresses) |
+| [0127-word-ladder](https://github.com/Liya-st/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0140-word-break-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Liya-st/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Liya-st/Competitive-Programming/tree/master/0146-lru-cache) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Liya-st/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Liya-st/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Liya-st/Competitive-Programming/tree/master/0207-course-schedule) |
