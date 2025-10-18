@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Liya-st/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Liya-st/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Liya-st/Competitive-Programming/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Liya-st/Competitive-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Liya-st/Competitive-Programming/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Liya-st/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Liya-st/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Liya-st/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Liya-st/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Liya-st/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Liya-st/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Liya-st/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1033-broken-calculator](https://github.com/Liya-st/Competitive-Programming/tree/master/1033-broken-calculator) |
