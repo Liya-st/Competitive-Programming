@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Liya-st/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/Liya-st/Competitive-Programming/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/Liya-st/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Liya-st/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Liya-st/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/Liya-st/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Liya-st/Competitive-Programming/tree/master/1014-k-closest-points-to-origin) |
@@ -800,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Liya-st/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Liya-st/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Liya-st/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Liya-st/Competitive-Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1033-broken-calculator](https://github.com/Liya-st/Competitive-Programming/tree/master/1033-broken-calculator) |
 | [1285-balance-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
@@ -844,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Liya-st/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Liya-st/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Liya-st/Competitive-Programming/tree/master/2532-remove-letter-to-equalize-frequency) |
