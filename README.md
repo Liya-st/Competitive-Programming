@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Liya-st/Competitive-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Liya-st/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Liya-st/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Liya-st/Competitive-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Liya-st/Competitive-Programming/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Liya-st/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Liya-st/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
