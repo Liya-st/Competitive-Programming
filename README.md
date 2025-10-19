@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Liya-st/Competitive-Programming/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Liya-st/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Liya-st/Competitive-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Liya-st/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Liya-st/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Liya-st/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0210-course-schedule-ii) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Liya-st/Competitive-Programming/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Liya-st/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Liya-st/Competitive-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Liya-st/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Liya-st/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Liya-st/Competitive-Programming/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/Liya-st/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Liya-st/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0210-course-schedule-ii) |
