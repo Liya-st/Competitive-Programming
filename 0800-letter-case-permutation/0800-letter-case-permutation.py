@@ -1,18 +1,25 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
-        def backtrack(start,temp):
-            if len(temp)==len(s):
-                res.append(temp[:])
+        res = set()
+        def backtrack(idx, temp):
+            if idx == len(s):
+                res.add("".join(temp))
                 return
+            org = s[idx]
+            if org.islower():
+                temp.append(org.upper())
+            else:
+                temp.append(org.lower())
+ 
+            backtrack(idx + 1, temp)
+            temp.pop()
+            temp.append(org)
+            backtrack(idx + 1, temp)
+            temp.pop()
 
-            for i in range(start,len(s)):
-                if s[i].isdigit():
-                    backtrack(i+1,temp+s[i])
-                else:
-                    low = temp+s[i].lower()
-                    backtrack(i+1,low)
-                    up = temp+s[i].upper()
-                    backtrack(i+1,up)
-        res = []
-        backtrack(0,"")
-        return res
+        backtrack(0, [])
+        return list(res)
+
+            
+
+        
