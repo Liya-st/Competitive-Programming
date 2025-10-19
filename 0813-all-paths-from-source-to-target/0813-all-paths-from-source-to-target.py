@@ -3,15 +3,18 @@ class Solution:
         res = []
         n = len(graph)
 
-        def dfs(curr, path):
-            path = path + [curr]
-            if curr == n-1:
+        q = deque([(0, [0])])
+        target = n-1
+
+        while q:
+            node, path = q.popleft()
+            if node == target:
                 res.append(path)
-                return
+
+            for neigh in graph[node]:
+                new_path = path + [neigh]
+                q.append((neigh, new_path))
             
-            for neigh in graph[curr]:
-                if neigh not in path:
-                    dfs(neigh, path)
-        dfs(0, [])
         return res
+
                 
