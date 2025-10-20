@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Liya-st/Competitive-Programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1449-print-words-vertically](https://github.com/Liya-st/Competitive-Programming/tree/master/1449-print-words-vertically) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Liya-st/Competitive-Programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Liya-st/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Liya-st/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Liya-st/Competitive-Programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Liya-st/Competitive-Programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
