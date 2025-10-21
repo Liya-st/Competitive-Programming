@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Liya-st/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Liya-st/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Liya-st/Competitive-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Liya-st/Competitive-Programming/tree/master/0221-maximal-square) |
