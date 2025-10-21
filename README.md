@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Liya-st/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/Liya-st/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Liya-st/Competitive-Programming/tree/master/0148-sort-list) |
