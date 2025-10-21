@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Liya-st/Competitive-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Liya-st/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Liya-st/Competitive-Programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Liya-st/Competitive-Programming/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0407-trapping-rain-water-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Liya-st/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Liya-st/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0445-add-two-numbers-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/Liya-st/Competitive-Programming/tree/master/0679-24-game) |
@@ -1009,4 +1012,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Liya-st/Competitive-Programming/tree/master/0173-binary-search-tree-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
