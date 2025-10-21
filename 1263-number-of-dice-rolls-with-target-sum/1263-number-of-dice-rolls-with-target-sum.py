@@ -4,21 +4,24 @@ class Solution:
             return 0
         memo = defaultdict(int)
         MOD = (10 ** 9 )+ 7
+        memo = [[0]*(target+1) for _ in range(n + 1)]
 
-        def dp(rem, sum):
-            if rem == 0 and sum == 0:
-                return 1
-            elif rem == 0 or sum <= 0:
-                return 0
-            state = (rem, sum)
+        for i in range(n+1):
+            for j in range(target + 1):
+                if i == 0 and j == 0:
+                    memo[i][j] = 1
+                elif i == 0 or j == 0:
+                    memo[i][j] = 0
 
-            if state not in memo:
-                memo[state] = 0
-                for i in range(1, k+1):
-                    temp = rem - 1
-                    if temp >= 0 and  sum - i >= 0:
-                        memo[state] = (memo[state] + dp(temp, sum - i)) % MOD
-            return memo[state]
-        return dp(n, target)
+        for i in range(1, n+1):
+            for j in range(1, target + 1):
+                for d in range(1, k + 1):
+                    if j - d >= 0:
+                        memo[i][j] = (memo[i][j] + memo[i-1][j-d]) % MOD
+        return memo[n][target]
+
+        
+
+        
 
         
