@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Liya-st/Competitive-Programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Liya-st/Competitive-Programming/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Liya-st/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Liya-st/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Liya-st/Competitive-Programming/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
