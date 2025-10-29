@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Liya-st/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Liya-st/Competitive-Programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Liya-st/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Liya-st/Competitive-Programming/tree/master/1628-count-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
+| [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Liya-st/Competitive-Programming/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Liya-st/Competitive-Programming/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1448-maximum-69-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2050-count-good-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/2050-count-good-numbers) |
+| [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Liya-st/Competitive-Programming/tree/master/0062-unique-paths) |
+| [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Liya-st/Competitive-Programming/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
