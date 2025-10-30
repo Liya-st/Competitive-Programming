@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Liya-st/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/Liya-st/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Liya-st/Competitive-Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/Liya-st/Competitive-Programming/tree/master/1140-distant-barcodes) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Liya-st/Competitive-Programming/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Liya-st/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Liya-st/Competitive-Programming/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Liya-st/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Liya-st/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Liya-st/Competitive-Programming/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Liya-st/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Liya-st/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Liya-st/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Liya-st/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Liya-st/Competitive-Programming/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Liya-st/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Liya-st/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Liya-st/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Liya-st/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
@@ -995,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/Liya-st/Competitive-Programming/tree/master/0744-network-delay-time) |
 ## Brainteaser
 |  |
 | ------- |
