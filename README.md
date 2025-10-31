@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Liya-st/Competitive-Programming/tree/master/1628-count-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 | [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Liya-st/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Liya-st/Competitive-Programming/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Liya-st/Competitive-Programming/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Liya-st/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Liya-st/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Liya-st/Competitive-Programming/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Liya-st/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Liya-st/Competitive-Programming/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
