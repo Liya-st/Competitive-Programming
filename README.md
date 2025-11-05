@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1140-distant-barcodes](https://github.com/Liya-st/Competitive-Programming/tree/master/1140-distant-barcodes) |
 | [1272-invalid-transactions](https://github.com/Liya-st/Competitive-Programming/tree/master/1272-invalid-transactions) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Liya-st/Competitive-Programming/tree/master/1488-sort-integers-by-the-power-value) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Liya-st/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/Liya-st/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Liya-st/Competitive-Programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Liya-st/Competitive-Programming/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Liya-st/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Liya-st/Competitive-Programming/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Liya-st/Competitive-Programming/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1013-fibonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Liya-st/Competitive-Programming/tree/master/1488-sort-integers-by-the-power-value) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Liya-st/Competitive-Programming/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
 |  |
