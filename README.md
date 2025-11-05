@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Liya-st/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Liya-st/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Liya-st/Competitive-Programming/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/Liya-st/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Liya-st/Competitive-Programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0275-h-index-ii) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Liya-st/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Liya-st/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Liya-st/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Liya-st/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Liya-st/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0407-trapping-rain-water-ii) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Liya-st/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
