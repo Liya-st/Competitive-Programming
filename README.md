@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Liya-st/Competitive-Programming/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Liya-st/Competitive-Programming/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Liya-st/Competitive-Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Liya-st/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Liya-st/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Liya-st/Competitive-Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Liya-st/Competitive-Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Liya-st/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Liya-st/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -1020,11 +1022,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Liya-st/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Liya-st/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Liya-st/Competitive-Programming/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Liya-st/Competitive-Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Liya-st/Competitive-Programming/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Liya-st/Competitive-Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Brainteaser
 |  |
 | ------- |
