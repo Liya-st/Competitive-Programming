@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Liya-st/Competitive-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Liya-st/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Liya-st/Competitive-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Liya-st/Competitive-Programming/tree/master/0859-design-circular-deque) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Liya-st/Competitive-Programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Liya-st/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Liya-st/Competitive-Programming/tree/master/0403-frog-jump) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Liya-st/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Liya-st/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Liya-st/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Liya-st/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Liya-st/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Liya-st/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0445-add-two-numbers-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
@@ -1073,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Liya-st/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 ## Eulerian Circuit
 |  |
