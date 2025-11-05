@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Liya-st/Competitive-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Liya-st/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Liya-st/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Liya-st/Competitive-Programming/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Liya-st/Competitive-Programming/tree/master/0130-surrounded-regions) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Liya-st/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Liya-st/Competitive-Programming/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/Liya-st/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Liya-st/Competitive-Programming/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
