@@ -14,7 +14,8 @@ class Solution:
 
         num_rows = len(matrix)
         for i in range(num_rows):
-            exists = binary_search(matrix[i], target)
-            if exists:
-                return exists
+            if matrix[i][0] <= target <= matrix[i][-1]:
+                exists = binary_search(matrix[i], target)
+                if exists:
+                    return exists
         return False 
