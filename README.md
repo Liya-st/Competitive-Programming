@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Liya-st/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Liya-st/Competitive-Programming/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Data Stream
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Liya-st/Competitive-Programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Liya-st/Competitive-Programming/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2621-find-xor-beauty-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Liya-st/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Liya-st/Competitive-Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Liya-st/Competitive-Programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Liya-st/Competitive-Programming/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Liya-st/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Liya-st/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Liya-st/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Liya-st/Competitive-Programming/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Liya-st/Competitive-Programming/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Liya-st/Competitive-Programming/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Liya-st/Competitive-Programming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3643-zero-array-transformation-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Liya-st/Competitive-Programming/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -939,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Liya-st/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Liya-st/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/2509-minimize-xor) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Liya-st/Competitive-Programming/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Liya-st/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Matrix
 |  |
