@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Liya-st/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Liya-st/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Liya-st/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Liya-st/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Liya-st/Competitive-Programming/tree/master/0721-accounts-merge) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Liya-st/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Liya-st/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Liya-st/Competitive-Programming/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Liya-st/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Liya-st/Competitive-Programming/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Liya-st/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Liya-st/Competitive-Programming/tree/master/0516-longest-palindromic-subsequence) |
