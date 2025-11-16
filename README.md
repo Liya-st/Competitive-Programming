@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Liya-st/Competitive-Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1483-rank-teams-by-votes](https://github.com/Liya-st/Competitive-Programming/tree/master/1483-rank-teams-by-votes) |
 | [1512-design-underground-system](https://github.com/Liya-st/Competitive-Programming/tree/master/1512-design-underground-system) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Liya-st/Competitive-Programming/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Liya-st/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Liya-st/Competitive-Programming/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Liya-st/Competitive-Programming/tree/master/1720-crawler-log-folder) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Liya-st/Competitive-Programming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Liya-st/Competitive-Programming/tree/master/1448-maximum-69-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Liya-st/Competitive-Programming/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Liya-st/Competitive-Programming/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Liya-st/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/2050-count-good-numbers) |
 | [2187-vowels-of-all-substrings](https://github.com/Liya-st/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
