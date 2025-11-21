@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Liya-st/Competitive-Programming/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Liya-st/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Liya-st/Competitive-Programming/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Liya-st/Competitive-Programming/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Liya-st/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Liya-st/Competitive-Programming/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Liya-st/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Liya-st/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Liya-st/Competitive-Programming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Liya-st/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Liya-st/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Liya-st/Competitive-Programming/tree/master/0268-missing-number) |
@@ -1127,11 +1129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Liya-st/Competitive-Programming/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Liya-st/Competitive-Programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Liya-st/Competitive-Programming/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Liya-st/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
