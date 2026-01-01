@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Liya-st/Competitive-Programming/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Liya-st/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Liya-st/Competitive-Programming/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Liya-st/Competitive-Programming/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Liya-st/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Liya-st/Competitive-Programming/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Liya-st/Competitive-Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Liya-st/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Liya-st/Competitive-Programming/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Liya-st/Competitive-Programming/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Liya-st/Competitive-Programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Liya-st/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Liya-st/Competitive-Programming/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Liya-st/Competitive-Programming/tree/master/0166-fraction-to-recurring-decimal) |
