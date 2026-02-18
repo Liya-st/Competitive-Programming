@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Liya-st/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Liya-st/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Liya-st/Competitive-Programming/tree/master/1449-print-words-vertically) |
+| [1470-shuffle-the-array](https://github.com/Liya-st/Competitive-Programming/tree/master/1470-shuffle-the-array) |
 | [1483-rank-teams-by-votes](https://github.com/Liya-st/Competitive-Programming/tree/master/1483-rank-teams-by-votes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Liya-st/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Liya-st/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
